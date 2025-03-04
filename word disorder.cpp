@@ -22,7 +22,7 @@ int main() {
             cout << word << " ";  // print the reverse word
         }
 
-    cout << endl;  // পরবর্তী টেস্ট কেসের জন্য নতুন লাইন
+    cout << endl;  //for next test case 
     }
 
     return 0;
